@@ -31,7 +31,6 @@ if (env==='development') {
   sassStyle = 'compressed';
 }
 
-
 coffeeSources = ['components/coffee/tagline.coffee'];
 jsSources = [
   'components/scripts/rclick.js',
